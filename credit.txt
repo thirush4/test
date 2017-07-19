@@ -1,0 +1,13 @@
+80+80+92 Red roof 
+
+125 insurance 
+
+394 car 
+
+200 room rent
+
+125  insurance
+
+394 car 
+---------------
+971
